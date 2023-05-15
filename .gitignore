@@ -1,0 +1,13 @@
+node_modules
+
+/.cache
+/build
+/public/build
+.env
+
+/strapi/.tmp
+/strapi/dist
+/strapi/node_modules
+/strapi/public
+/strapi/.cache
+/strapi/.env
